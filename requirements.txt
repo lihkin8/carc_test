@@ -1,0 +1,13 @@
+jax
+jaxlib
+numpy
+pandas
+matplotlib
+GitPython
+IPython
+flax
+chex
+tqdm
+wandb
+optax
+pytest
