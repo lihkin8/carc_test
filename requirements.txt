@@ -1,0 +1,13 @@
+--upgrade pip
+--upgrade "jax[cuda12_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+numpy
+pandas
+matplotlib
+GitPython
+IPython
+flax
+chex
+tqdm
+wandb
+optax
+pytest
